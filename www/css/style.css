@@ -1,0 +1,18 @@
+.display{
+  margin-top: 20px;
+  height: 80px;
+  font-size: 50px;
+  border-block-end-color: aqua;
+ color: gray;
+}
+
+.linha button{
+ border-color: aqua;
+font-style: 30px;
+border-block-start-color:  black;
+ border-bottom-left-radius: 20px;
+}
+
+.linha{
+  margin-top: 10px;
+}
